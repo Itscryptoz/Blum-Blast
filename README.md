@@ -1,7 +1,7 @@
 > [!NOTE]
 > - Contacts: [Telegram](https://t.me/NotCryptoz)
 > - Channel: [Telegram Channel](https://t.me/instant_earn77)
-> - Channel: [Telegram Script Channel](https://t.me/instant_earn77)
+> - Channel: [Telegram Script Channel](https://t.me/Instant_Scripts77)
 
 ---
 ## How to run  
