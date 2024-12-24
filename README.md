@@ -1,5 +1,5 @@
 > [!NOTE]
-> - Contacts: [Telegram](https://t.me/mudachyo)
+> - Contacts: [Telegram](https://t.me/NotCryptoz)
 > - Channel: [Telegram Channel](https://t.me/shopalenka) 
 
 ---
