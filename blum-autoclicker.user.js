@@ -8,7 +8,7 @@
 // @icon         http://notcryptoz.unaux.com/NotCoin.png
 // @downloadURL  http://notcryptoz.unaux.com/blum-autoclicker.user.js
 // @updateURL    http://notcryptoz.unaux.com/blum-autoclicker.user.js
-// @homepage     https://github.com/mudachyo/Blum
+// @homepage     https://github.com/Itscryptoz/Blum-Blast
 // ==/UserScript==
 
 const SCRIPT_VERSION = '3.8';
