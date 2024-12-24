@@ -1,7 +1,7 @@
 > [!NOTE]
 > - Contacts: [Telegram](https://t.me/mudachyo)
 > - Channel: [Telegram Channel](https://t.me/shopalenka) 
-> - 🇷🇺 README на русском доступен [здесь](README.md)
+
 ---
 ## How to run  
 - Install two extensions in your browser [Ignore X-Frame headers](https://chromewebstore.google.com/detail/ignore-x-frame-headers/gleekbfjekiniecknbkamfmkohkpodhe) and [Violentmonkey](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=be)
